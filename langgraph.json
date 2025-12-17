@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs":{
+        "openai_agent": "./debug_using_langsmith.py:agent"
+    },
+    "env": ".env"
+}
